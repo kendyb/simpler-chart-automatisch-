@@ -1,0 +1,1 @@
+Dies ist eine Platzhalterdatei für Indikator_Automatisiert_Final.py
